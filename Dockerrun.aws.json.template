@@ -5,7 +5,7 @@
     "Key": "dockercfg"
   },
   "Image": {
-    "Name": "circleci/hello:<TAG>",
+    "Name": "crania/hello:<TAG>",
     "Update": "true"
   },
   "Ports": [
